@@ -1,7 +1,7 @@
-## Looker_Digital_Marketing_Agency_Sales_Dashboards
+## Tableau_Wholesale_Distribution_Sales_Dashboards
 
 
-![Dashboard](People_HR_Dashboard.PNG)
+![Dashboard](Wholesale_Distribution_Sales_Dashboard.PNG)
 
 
 ## Overview

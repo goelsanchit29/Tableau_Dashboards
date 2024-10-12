@@ -1,4 +1,4 @@
-## Looker_Digital_Marketing_Agency_Sales_Dashboards
+## Tableau_Digital_Marketing_Agency_Sales_Dashboards
 
 
 ![Dashboard](People_HR_Dashboard.PNG)
