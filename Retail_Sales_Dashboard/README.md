@@ -1,7 +1,7 @@
-## Tableau_SaaS_Product_Sales_Dashboards
+## Tableau_Retail_Sales_Dashboards
 
 
-![Dashboard](SaaS_Product_Sales_Dashboard.PNG)
+![Dashboard](Retail_Sales_Dashboard.PNG)
 
 
 ## Overview
