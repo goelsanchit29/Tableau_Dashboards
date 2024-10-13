@@ -1,7 +1,7 @@
-## Tableau_E-Commerce_Store_Sales_Dashboard
+## Tableau_Digital_Marketing_Agency_Sales_Dashboard
 
 
-![Dashboard](E-Commerce_Store_Sales_Dashboard.PNG)
+![Dashboard](Digital_Marketing_Agency_Sales_Dashboard.PNG)
 
 
 ## Overview
